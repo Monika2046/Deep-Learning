@@ -28,6 +28,8 @@ plt.ylabel('Loss')
 plt.grid(True)
 plt.show()
 
+
 output:
+
 
 <img width="675" height="779" alt="Screenshot 2025-08-08 211100" src="https://github.com/user-attachments/assets/7ad2f6e3-efb5-4765-8d6f-1578ec280c02" />
